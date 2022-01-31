@@ -6,7 +6,9 @@ We have added some extra features on top Freebsd
 * Easy to use interface
 * Dedicated app store
 * Live CD support
+
 Most of these features have been derived from 
-hellosystem and airyxOS.
+hellosystem and airyxOS. our main goal is to make Freebsd
+Newbie friendly.
 Note : Despite name being DisneyOS, we have no connection
 With popular entertainment studio Disney.
